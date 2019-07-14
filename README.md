@@ -20,4 +20,6 @@ You can override the Material Theme UI and schemes colors by adding these theme-
 
 <p>Windows - Ctrl + Shift + x</p>
 <p>macOS - ⌘ + Shift + x</p>
-<p>Linux - ⌘ + Shift + x</p>
+<p>Linux - Ctrl + Shift + x</p>
+
+after search <a href="https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme">matherial theme</a>

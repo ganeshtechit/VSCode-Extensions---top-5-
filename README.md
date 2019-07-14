@@ -15,3 +15,9 @@ Microsoft vs code Extension API...
 The most epic theme meets Visual Studio Code
 
 <h2>Installation</h2>
+
+You can override the Material Theme UI and schemes colors by adding these theme-specific settings to your configuration. For advanced customisation please check the relative section on the VS Code documentation.
+
+<p>Windows - Ctrl + Shift + x</p>
+<p>macOS - ⌘ + Shift + x</p>
+<p>Linux - ⌘ + Shift + x</p>

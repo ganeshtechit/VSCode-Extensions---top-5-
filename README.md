@@ -10,3 +10,8 @@ Microsoft vs code Extension API...
 4. Support a new programming language - Language Extensions Overview
 5. Support debugging a specific runtime - Debugger Extension Guide
 
+# 01. Material Theme
+
+The most epic theme meets Visual Studio Code
+
+<h2>Installation</h2>

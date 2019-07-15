@@ -52,4 +52,29 @@ after search <a href="https://marketplace.visualstudio.com/items?itemName=PKief.
 
 Press Ctrl-Shift-P to open the command palette and type Material Icons....
 
+# 03. Auto Rename Tag
 
+Auto rename paired HTML/XML tag
+
+- This will be for the lazy people this one is called auto renaming tags
+
+<h2>Installation</h2>
+
+Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
+- Using user settings:
+
+<p>Windows - Ctrl + Shift + x</p>
+<p>macOS - ⌘ + Shift + x</p>
+<p>Linux - Ctrl + Shift + x</p>
+
+after search <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Auto Rename Tag</a> install
+
+<h2>Futures</h2>
+
+- When you rename one HTML/XML tag, automatically rename the paired HTML/XML tag
+
+<h3>Configuration</h3>
+
+Add entry into auto-rename-tag.activationOnLanguage to set the languages that the extension will be activated. By default, it is ["*"] and will be activated for all languages.
+
+<span>Note:</span>The setting should be set with language id defined in VS Code. Taking javascript definition as an example, we need to use javascript for .js and .es6, use javascriptreact for .jsx. So, if you want to enable this extension on .js file, you need to add javascript in settings.json.

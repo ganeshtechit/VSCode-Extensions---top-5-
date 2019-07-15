@@ -245,4 +245,4 @@ after search <a href="https://marketplace.visualstudio.com/items?itemName=esbenp
 
 -------------------------------------------
 
-<h4>Visit Our Visual Studio Code More Extensions <a href="https://marketplace.visualstudio.com/search?term=prettier&target=VSCode&category=All%20categories&sortBy=Relevance">All Extensions</a> 
+<h4>Visit Our Visual Studio Code More Extensions <a href="https://marketplace.visualstudio.com/search?term=prettier&target=VSCode&category=All%20categories&sortBy=Relevance">All Extensions</a> </h4>

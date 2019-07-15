@@ -78,3 +78,51 @@ after search <a href="https://marketplace.visualstudio.com/items?itemName=formul
 Add entry into auto-rename-tag.activationOnLanguage to set the languages that the extension will be activated. By default, it is ["*"] and will be activated for all languages.
 
 <span>Note:</span>The setting should be set with language id defined in VS Code. Taking javascript definition as an example, we need to use javascript for .js and .es6, use javascriptreact for .jsx. So, if you want to enable this extension on .js file, you need to add javascript in settings.json.
+
+# 04. Live Server
+
+Launch a development local Server with live reload feature for static & dynamic pages
+
+- This will be my favorite it's called live server i thnik every text editor have this ..
+- This basically allows us to generate server and whenever we save our file our html,css,python,javascript.. whatever you want progranmming language it's automatically reload our page...so you can see the live changes..
+
+. let's take a look of how we can install that..
+
+<h2>Installation</h2>
+
+<p>Windows - Ctrl + Shift + x</p>
+<p>macOS - ⌘ + Shift + x</p>
+<p>Linux - Ctrl + Shift + x</p>
+
+after search <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Auto Rename Tag</a> install
+
+<h2>Futures</h2>
+
+01. A Quick Development Live Server with live browser reload.
+02. Start or Stop server by a single click from status bar.
+03. Open a HTML file to browser from Explorer menu <a href="https://raw.githubusercontent.com/ritwickdey/vscode-live-server/master/images/Screenshot/vscode-live-server-explorer-menu-demo-1.gif">.[Quick Gif Demo].</a>
+04. Support for excluding files for change detection.
+05. Hot Key control.
+06. Customizable Port Number, Server Root, default browser.
+07. Support for any browser (Eg: Firefox Nightly) using advance Command Line.
+08. SVG Support
+09. https Support.
+10. Multi-root workspace supported.
+
+<h3>Version</h3>
+
+01. Version 5.5.0 (12.02.19)
+. [Fixes] Fixed ignoreFiles settings [#255]
+. Attempt to fix high cpu load [#278]
+
+02. Version 5.5.1 (12.02.19)
+. [Fixes] Fixed Extension host terminated unexpectedly for MacOS. [#285]
+
+03. Version 5.6.0 (17.04.19)
+. [NEW] Intregation of Browser Preview with Live Server [#352 - Thanks to Kenneth Auchenberg]
+. [NEW] Fallback to random port If given port is busy. [#330 - Thanks to Ali Almohaya ]
+. [FIXES] Moved to vscode-chokidar lib for #285.
+. Doc Fixes [#388 - Thanks to Ted Silbernagel]
+
+04. Version 5.6.1 (17.04.19)
+. [NEW] Fixing Extension host terminated unexpectedly *[#431]

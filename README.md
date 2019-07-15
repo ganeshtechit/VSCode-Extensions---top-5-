@@ -37,7 +37,7 @@ You can change the color of the default folder icon using the command palette:
 <p>macOS - ⌘ + Shift + x</p>
 <p>Linux - Ctrl + Shift + x</p>
 
-after search <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme">matherial theme</a> install
+after search <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme">Material Icon Theme</a> install
 
 <h2>Futures</h2>
 

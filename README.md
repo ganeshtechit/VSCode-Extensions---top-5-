@@ -94,7 +94,7 @@ Launch a development local Server with live reload feature for static & dynamic 
 <p>macOS - ⌘ + Shift + x</p>
 <p>Linux - Ctrl + Shift + x</p>
 
-after search <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Auto Rename Tag</a> install
+after search <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a> install
 
 <h2>Futures</h2>
 
@@ -126,3 +126,119 @@ after search <a href="https://marketplace.visualstudio.com/items?itemName=ritwic
 
 04. Version 5.6.1 (17.04.19)
 . [NEW] Fixing Extension host terminated unexpectedly *[#431]
+
+# 05. Better Comments
+
+Improve your code commenting by annotating with alert, informational, TODOs, and more!
+
+- The Better Comments extension will help you create more human-friendly comments in your code.
+With this extension, you will be able to categorise your annotations into:
+. Alerts
+. Queries
+. TODOs
+. Highlights
+. Commented out code can also be styled to make it clear the code shouldn't be there
+. Any other comment styles you'd like can be specified in the settings
+
+. let's take a look of how we can install that..
+
+<h2>Installation</h2>
+
+<p>Windows - Ctrl + Shift + x</p>
+<p>macOS - ⌘ + Shift + x</p>
+<p>Linux - Ctrl + Shift + x</p>
+
+after search <a href="https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments">Better Comments</a> install
+
+<h3>Supported Languages</h3>
+. C
+. C++
+. Ada
+. AsciiDoc
+. HTML
+. CSS
+. Javascript
+. Python
+<a href="https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments">View More</a>
+
+# 06. CSS Peek
+
+Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.
+
+- This extension extends HTML and ejs code editing with Go To Definition and Go To Symbol in Workspace support for css/scss/less (classes and IDs) found in strings within the source code.
+
+ -This was heavily inspired by a similar feature in Brackets called CSS Inline Editors.
+
+ - The extension supports all the normal capabilities of symbol definition tracking, but does it for css selectors (classes, IDs and HTML tags). This includes:
+
+ .Peek: load the css file inline and make quick edits right there. (Ctrl+Shift+F12)
+. Go To: jump directly to the css file or open it in a new editor (F12)
+. Hover: show the definition in a hover over the symbol (Ctrl+hover)
+
+- In addition, it supports the Symbol Provider so you can quickly jump to the right CSS/SCSS/LESS code if you already know the class or ID name
+
+. let's take a look of how we can install that..
+
+<h2>Installation</h2>
+
+<p>Windows - Ctrl + Shift + x</p>
+<p>macOS - ⌘ + Shift + x</p>
+<p>Linux - Ctrl + Shift + x</p>
+
+after search <a href="https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek">CSS Peek</a> install...
+
+#07. Live Sass Compiler
+
+- Compile Sass or Scss to CSS at realtime with live browser reload.
+
+-A VSCode Extension that help you to compile/transpile your SASS/SCSS files to CSS files at realtime with live browser reload.
+
+. let's take a look of how we can install that..
+
+<h2>Installation</h2>
+
+<p>Windows - Ctrl + Shift + x</p>
+<p>macOS - ⌘ + Shift + x</p>
+<p>Linux - Ctrl + Shift + x</p>
+
+after search <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass">Live Sass Compiler</a> install...
+
+(or)
+
+Open VSCode Editor and Press ctrl+P, type ext install live-sass.
+
+<h2>Usage/Shortcuts</h2>
+
+. Click to Watch Sass from Statusbar to turn on the live compilation and then click to Stop Watching Sass from Statusbar to turn on live compilation . 
+. Press F1 or ctrl+shift+P and type Live Sass: Watch Sass to start live compilation or, type Live Sass: Stop Watching Sass to stop a live compilation.
+. Press F1 or ctrl+shift+P and type Live Sass: Compile Sass - Without Watch Mode to compile Sass or Scss for one time.
+
+
+<h2>Features</h2>
+
+. Live SASS & SCSS Compile.
+. Customizable file location of exported CSS.
+. Customizable exported CSS Style (expanded, compact, compressed, nested).
+. Customizable extension name (.css or .min.css).
+. Quick Status bar control.
+. Exclude Specific Folders by settings.
+. Live Reload to browser (Dependency on Live Server extension).
+. Autoprefix Supported (See setting section)
+
+# 08. Prettier - Code formatter
+
+VS Code plugin for prettier/prettier
+
+- Prettier formatter for Visual Studio Code
+
+VS Code package to format your JavaScript / TypeScript / CSS using<a href="https://github.com/prettier/prettier"> Prettier</a>.
+
+. let's take a look of how we can install that..
+
+<h2>Installation</h2>
+
+<p>Windows - Ctrl + Shift + x</p>
+<p>macOS - ⌘ + Shift + x</p>
+<p>Linux - Ctrl + Shift + x</p>
+
+after search <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">Prettier - Code formatter</a> install...

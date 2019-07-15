@@ -242,3 +242,7 @@ VS Code package to format your JavaScript / TypeScript / CSS using<a href="https
 <p>Linux - Ctrl + Shift + x</p>
 
 after search <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">Prettier - Code formatter</a> install...
+
+-------------------------------------------
+
+<h4>Visit Our Visual Studio Code More Extensions <a href="https://marketplace.visualstudio.com/search?term=prettier&target=VSCode&category=All%20categories&sortBy=Relevance">All Extensions</a> 

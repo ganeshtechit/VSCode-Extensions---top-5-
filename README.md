@@ -37,7 +37,7 @@ You can change the color of the default folder icon using the command palette:
 <p>macOS - ⌘ + Shift + x</p>
 <p>Linux - Ctrl + Shift + x</p>
 
-after search <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme">Material Icon Theme</a> install
+after search <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme">Material Icon Theme</a> install....
 
 <h2>Futures</h2>
 
@@ -67,7 +67,7 @@ Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
 <p>macOS - ⌘ + Shift + x</p>
 <p>Linux - Ctrl + Shift + x</p>
 
-after search <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Auto Rename Tag</a> install
+after search <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Auto Rename Tag</a> install....
 
 <h2>Futures</h2>
 
@@ -94,7 +94,7 @@ Launch a development local Server with live reload feature for static & dynamic 
 <p>macOS - ⌘ + Shift + x</p>
 <p>Linux - Ctrl + Shift + x</p>
 
-after search <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a> install
+after search <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a> install...
 
 <h2>Futures</h2>
 

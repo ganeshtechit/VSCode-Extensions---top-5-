@@ -1,6 +1,6 @@
 # Microsoft VS Code Extensions 
 
-Microsoft vs code Extension API...
+Microsoft vs code Extension API.
 
 # What Extensions do?
 
@@ -241,7 +241,7 @@ VS Code package to format your JavaScript / TypeScript / CSS using<a href="https
 <p>macOS - ⌘ + Shift + x</p>
 <p>Linux - Ctrl + Shift + x</p>
 
-after search <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">Prettier - Code formatter</a> install...
+after search <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">Prettier - Code formatter</a> install.
 
 -------------------------------------------
 
